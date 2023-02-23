@@ -112,7 +112,7 @@ header nav .right button:hover
   padding: 20px;
   background-color: #33314d;
   margin: 0 15px;/* pour mettre de l'espace entre les petites images de casques*/
-  border-radius: 30px;
+  border-radius: 28px;
 }
 
 /*Nous voulons faire baisser la luminosité (filtrer la luminosité) lorsque le cursor passes sur les small-images*/
